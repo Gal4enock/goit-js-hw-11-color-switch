@@ -1,0 +1,1 @@
+html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}button{display:inline-block;width:100px;height:25px;border-radius:5px;margin-top:50px;cursor:pointer}button:hover{background-color:teal}
